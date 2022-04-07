@@ -1,0 +1,12 @@
+/**
+ * @name Dracula Theme - JYLN
+ * @description 🧛‍♂️Dark theme for all the vampires out there
+ * @author JYLN
+ * @version 1.0.0
+ * @website https://github.com/dracula/betterdiscord
+ * @source https://github.com/JYLN/Dracula-BetterDiscord-Theme
+ * @updateUrl https://raw.githubusercontent.com/JYLN/Dracula-BetterDiscord-Theme/master/src/main.css
+ */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+@import url(https://jyln.github.io/Dracula-BetterDiscord-Theme/src/main.css);
