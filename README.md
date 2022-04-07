@@ -2,7 +2,7 @@
 
 ## Directories
 
-### Alacrittyy
+### Alacritty
 
 Contain my <strong>alacritty.yml</strong> sample.
 
