@@ -6,6 +6,10 @@
 
 Contain my <strong>alacritty.yml</strong> sample.
 
+### Aseprite
+
+Contain a Dracula theme for Aseprite.
+
 ### AwesomeWM
 
 Contain the config files + some themes for awesomeWM
@@ -21,6 +25,10 @@ Contain a Dracula theme for BetterDiscord.
 ### DMenu
 
 Contain some scripts for Dmenu.
+
+### Eclipse
+
+Contain a Dracula theme for Eclipse.
 
 ### Neofetch
 
